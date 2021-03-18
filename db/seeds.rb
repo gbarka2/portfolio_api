@@ -21,7 +21,8 @@ Project.create([
     image: "https://res.cloudinary.com/decffa3wj/image/upload/v1615750306/Portfolio/Snip20210314_1_zdjsef.png",
     idea: "Create a web app for travel agents to quickly reference airport IATA codes",
     goal: "Enable the travel agent to search and favorite airport codes for  future reference",
-    features: "Search by city name, favorite/unfavorite airports, serverless web app"
+    features: "Search by city name, favorite/unfavorite airports, serverless web app",
+    heroku: ""
   },
   {
     name: "goWILD",
@@ -39,6 +40,7 @@ Project.create([
     image: "https://res.cloudinary.com/decffa3wj/image/upload/v1615750753/Portfolio/Snip20210314_2_hk5rwe.png",
     idea: "Provide easy access to National Park Service information to plan your visit",
     goal: "Find information relevant to the National Park inquired",
-    features: "NgBootstrap Carousel, NgBootstrap Accordian"
+    features: "NgBootstrap Carousel, NgBootstrap Accordian",
+    heroku: ""
   }
 ])
